@@ -1,6 +1,7 @@
 # Dockerized `agate` gemini server
 
-This is a simple agate gemini server image, compiled for musl c in an `alpine:edge` base image. Thanks to [mbrubeck/agate](https://github.com/mbrubeck/agate) for coding the server.
+This is a simple agate gemini server image, compiled for musl c in an `alpine:edge` base image.
+Thanks to [mbrubeck/agate](https://github.com/mbrubeck/agate) for coding the server.
 
 It's not made for multiple hosts or anything fancy, and it's hard set to English right now.
 
