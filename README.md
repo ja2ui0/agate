@@ -1,4 +1,4 @@
-# Dockerized `agate` gemini server
+# Dockerized `agate` Gemini Server
 
 This is a simple agate gemini server image, compiled for musl c in an `alpine:edge` base image.
 
